@@ -1,7 +1,7 @@
 # Hola, soy Jonathan Daniel López Peñaloza 👋
 ### QA Engineer Jr | Test Automation | Python & Selenium
 
-Soy un Ingeniero de QA apasionado por la automatización y la calidad del software. Me especializo en construir frameworks de prueba escalables y en asegurar la integridad tanto del Frontend como del Backend. Aquí destaco mis proyectos más recientes del Bootcamp de TripleTen, donde recibí menciones honoríficas por la calidad de mi código y estructura.
+Soy Ingeniero de QA con un fuerte enfoque en automatización y calidad de software. Mi objetivo es crear frameworks de prueba eficientes y asegurar que tanto el Frontend como el Backend funcionen correctamente. Aquí comparto mis proyectos más recientes del Bootcamp de TripleTen, donde puse especial atención en las buenas prácticas y la estructura del código.
 
 ---
 
