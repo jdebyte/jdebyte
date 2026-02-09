@@ -51,6 +51,6 @@ Creación de una suite de pruebas automatizadas para verificar la funcionalidad 
 
 * **LinkedIn:** www.linkedin.com/in/lpjonathandaniel
 * **Email:** lpenaloza.jd@gmail.com
-* **Ubicación:** Ecatepec de Morelos, Méx.
+* **Ubicación:** Tecámac, Méx.
 
 ⭐️ *Gracias por visitar mi portafolio.*
