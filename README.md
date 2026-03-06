@@ -45,6 +45,20 @@ Creación de una suite de pruebas automatizadas para verificar la funcionalidad 
 
 > *Feedback del Revisor:* "Excelente trabajo en la automatización. Nombres de variables claros y métodos que describen con precisión la acción que realizan."
 
+### 3. SauceDemo - Pruebas Manuales de Funcionalidad E-commerce
+**Tipo:** Manual Testing | **Tecnologías:** Test Cases, Exploratory Testing, Bug Reports
+**Repositorio:** https://github.com/jdebyte/qa-testing-manual-saucedemo
+
+Ejecución de pruebas manuales en la plataforma de e-commerce SauceDemo enfocadas en validar funcionalidades clave del flujo de compra como productos, carrito y proceso de checkout.
+
+* **Escenarios de Prueba:** Validación del flujo de compra mediante pruebas positivas, negativas y exploratorias:
+    * **Login:** verificación de autenticación de usuarios con credenciales válidas e inválidas y validación de mensajes de error.  
+    * **Carrito de compras:** persistencia de productos después de cerrar sesión, visualización de imágenes y validación de restricciones con carrito vacío.  
+    * **Checkout:** validación de campos del formulario como nombre y código postal utilizando caracteres especiales, números y formatos inválidos.  
+    * **Flujo de compra:** verificación de restricciones del sistema para evitar continuar o finalizar compras sin productos en el carrito.  
+* **Estructura:** Organización de casos de prueba por módulos (Login, Productos, Carrito y Checkout), ejecución de pruebas manuales y documentación de defectos con pasos de reproducción, resultado esperado y resultado actual.  
+* **Logro:** Identificación de múltiples defectos funcionales, incluyendo validaciones incorrectas en formularios y la posibilidad de completar el proceso de compra con el carrito vacío.
+
 ---
 
 ## 📫 Contacto
