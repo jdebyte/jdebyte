@@ -12,7 +12,7 @@ Recientemente completé mi formación en TripleTen, donde desarrollé proyectos 
 * **Análisis Funcional:** Diseño de casos de prueba, ejecución de pruebas exploratorias y de regresión.  
 * **API Testing:** Pruebas de caja negra y gris para servicios REST, validación de esquemas y códigos de respuesta.  
 * **Data Integrity:** Consultas complejas en bases de datos para verificar la persistencia y consistencia de la información.  
-* **Documentación de Calidad:** Reportes de errores (Bug Reports) claros, concisos y accionables que facilitan el trabajo del equipo de desarrollo.  
+* **Documentación de Calidad:** Reportes de errores claros, concisos y accionables que facilitan el trabajo del equipo de desarrollo.  
 
 ---
 
