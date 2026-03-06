@@ -1,16 +1,27 @@
-# Hola, soy Jonathan Daniel López Peñaloza 👋
-### QA Engineer Jr | Test Automation | Python & Selenium
+# Hola, soy Daniel López 👋
+### QA Engineer | Manual Testing | API Testing | SQL
 
-Soy Ingeniero de QA con un fuerte enfoque en automatización y calidad de software. Mi objetivo es crear frameworks de prueba eficientes y asegurar que tanto el Frontend como el Backend funcionen correctamente. Aquí comparto mis proyectos más recientes del Bootcamp de TripleTen, donde puse especial atención en las buenas prácticas y la estructura del código.
+Soy un QA Engineer enfocado en asegurar la calidad del software a través de un análisis crítico y técnico. Mi objetivo es garantizar productos robustos mediante el diseño de estrategias de prueba exhaustivas, validación de datos y pruebas de integración de servicios.
+
+Recientemente completé mi formación en TripleTen, donde desarrollé proyectos centrados en el ciclo de vida de pruebas (STLC), detectando errores críticos en etapas tempranas y asegurando una experiencia de usuario impecable tanto en el Frontend como en el Backend.
+
+---
+
+## 💪 Mis Fortalezas
+
+* **Análisis Funcional:** Diseño de casos de prueba, ejecución de pruebas exploratorias y de regresión.  
+* **API Testing:** Pruebas de caja negra y gris para servicios REST, validación de esquemas y códigos de respuesta.  
+* **Data Integrity:** Consultas complejas en bases de datos para verificar la persistencia y consistencia de la información.  
+* **Documentación de Calidad:** Reportes de errores (Bug Reports) claros, concisos y accionables que facilitan el trabajo del equipo de desarrollo.  
 
 ---
 
 ## 🛠 Habilidades Técnicas
 
-* **Lenguajes:** Python.
-* **Automatización Web:** Selenium WebDriver, Page Object Model (POM).
-* **API Testing:** Requests library, Postman, Análisis de códigos de estado (201, 400).
-* **Herramientas:** Git/GitHub, PyCharm, Pytest.
+* **Manual Testing:** Gestión del ciclo de vida del defecto, creación de Checklists y Planes de Prueba.
+* **API Testing:** Postman, análisis de documentación en Swagger, validación de JSON y códigos de estado (200, 201, 400, 404, 500).
+* **Bases de Datos:** SQL (PostgreSQL / MySQL) para verificación de datos y pruebas de Backend.
+* **Herramientas & Metodologías:** Git/GitHub, Metodologías Ágiles (Scrum), Jira, DevTools del navegador.
 
 ---
 
