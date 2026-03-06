@@ -17,7 +17,7 @@ Soy Ingeniero de QA con un fuerte enfoque en automatización y calidad de softwa
 ## 🚀 Proyectos Destacados
 
 ### 1. Urban Routes - Automatización E2E con Selenium (Sprint 9)
-**Tipo:** UI Testing | **Tecnologías:** Python, Selenium WebDriver, Pytest
+**Tipo:** UI Testing | **Tecnologías:** Python, Selenium WebDriver, Pytest  
 **Repositorio:** https://github.com/jdebyte/qa-project-Urban-Routes-es
 
 Desarrollé un script de automatización completo para el flujo de "Pedir un Taxi" en la aplicación Urban Routes. El objetivo fue cubrir el recorrido completo del usuario (End-to-End).
@@ -32,7 +32,7 @@ Desarrollé un script de automatización completo para el flujo de "Pedir un Tax
 > *Feedback del Revisor:* "Implementación excelente del patrón POM, código limpio y mantenible. Métodos descriptivos y buena separación de responsabilidades."
 
 ### 2. Urban Grocers - Automatización de Pruebas de API (Sprint 8)
-**Tipo:** API Testing | **Tecnologías:** Python, Requests
+**Tipo:** API Testing | **Tecnologías:** Python, Requests  
 **Repositorio:** https://github.com/jdebyte/qa-project-Urban-Grocers-app-es
 
 Creación de una suite de pruebas automatizadas para verificar la funcionalidad de "Crear un Kit" en la API de Urban Grocers. Me enfoqué en la validación de datos y manejo de errores.
@@ -46,7 +46,7 @@ Creación de una suite de pruebas automatizadas para verificar la funcionalidad 
 > *Feedback del Revisor:* "Excelente trabajo en la automatización. Nombres de variables claros y métodos que describen con precisión la acción que realizan."
 
 ### 3. SauceDemo - Pruebas Manuales de Funcionalidad E-commerce
-**Tipo:** Manual Testing | **Tecnologías:** Test Cases, Exploratory Testing, Bug Reports
+**Tipo:** Manual Testing | **Tecnologías:** Test Cases, Exploratory Testing, Bug Reports  
 **Repositorio:** https://github.com/jdebyte/qa-testing-manual-saucedemo
 
 Ejecución de pruebas manuales en la plataforma de e-commerce SauceDemo enfocadas en validar funcionalidades clave del flujo de compra como productos, carrito y proceso de checkout.
